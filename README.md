@@ -1,3 +1,5 @@
+Progress has been freezed... IDEA 14 seems to have qutie poor lua support(unofficially of course), and my current changes to the API does not seem to show up, therefore i am freezing the project infinitely. I am leaving my updates here if anyone should have interest in using them for whatever reason.
+-----------------------------------------------
 LÖVE 2D API Code Completion for IntelliJ
 ========================================
 
@@ -10,5 +12,5 @@ https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Setting_Up_Custom_API%27s
 This file contains just LÖVE 2D's global functions and callbacks. Functions on Types are coming soon.
 
 Updated to latest Love2D version  0.9.2:
-I intend to update everything according to the Love2D wiki and keep it updated as new stuff becomes available.
+I intended to update everything according to the Love2D wiki and keep it updated as new stuff  available.
 Atm. all global functions, callbacks have been updated, Functions on types are coming ASAP.
