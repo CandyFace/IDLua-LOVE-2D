@@ -1,4 +1,4 @@
-Progress has been freezed... IDEA 14 seems to have qutie poor lua support(unofficially of course), and my current changes to the API does not seem to show up, therefore i am freezing the project infinitely. I am leaving my updates here if anyone should have interest in using them for whatever reason.
+Progress has been put on hold... IDEA 14 seems to have quite poor lua support(unofficially of course), and my current changes to the API does not seem to show up, therefore i am putting the project on hold infinitely. I am leaving my updates here if anyone should have interest in using them for whatever reason.
 -----------------------------------------------
 LÖVE 2D API Code Completion for IntelliJ
 ========================================
